@@ -1,0 +1,250 @@
+TGooglePlaces
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile "/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Products/Debug-iphonesimulator/GooglePlaces.app/Info.plist" GooglePlaces/GooglePlaces-Info.plist
+cProcessPCH "/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Intermediates/PrecompiledHeaders/GooglePlaces-Prefix-ehdoytenutcrkpgjkysijmecjvxb/GooglePlaces-Prefix.pch.pth" GooglePlaces/GooglePlaces-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/GooglePlaces/Build/Intermediates/GooglePlaces.build/Debug-iphonesimulator/GooglePlaces.build/Objects-normal/i386/main.o "/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/GooglePlaces/main.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/GooglePlaces/Build/Intermediates/GooglePlaces.build/Debug-iphonesimulator/GooglePlaces.build/Objects-normal/i386/ViewController.o "/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/GooglePlaces/ViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/GooglePlaces/Build/Intermediates/GooglePlaces.build/Debug-iphonesimulator/GooglePlaces.build/Objects-normal/i386/AppDelegate.o "/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/GooglePlaces/AppDelegate.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd "/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Products/Debug-iphonesimulator/GooglePlaces.app/GooglePlaces" normal i386
+cGenerateDSYMFile "/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Products/Debug-iphonesimulator/GooglePlaces.app.dSYM" "/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Products/Debug-iphonesimulator/GooglePlaces.app/GooglePlaces"
+cCopyStringsFile "/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Products/Debug-iphonesimulator/GooglePlaces.app/en.lproj/InfoPlist.strings" GooglePlaces/en.lproj/InfoPlist.strings
+cCompileStoryboard "/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/GooglePlaces/en.lproj/MainStoryboard.storyboard"
+cTouch "/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Products/Debug-iphonesimulator/GooglePlaces.app"
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk
+c000000004F721D6D0000000000000110
+t1332878701
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004F585E0A0000000000244490
+t1331191306
+s2376848
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004F585E090000000000089510
+t1331191305
+s562448
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004F585E0A0000000000353830
+t1331191306
+s3487792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004F585E0C00000000000D9D60
+t1331191308
+s892256
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004F585E0D0000000000905E40
+t1331191309
+s9461312
+
+N/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Intermediates/GooglePlaces.build/Debug-iphonesimulator/GooglePlaces.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Intermediates/GooglePlaces.build/Debug-iphonesimulator/GooglePlaces.build/Objects-normal/i386/GooglePlaces.LinkFileList
+c000000004F9F938A0000000000000275
+t1335858058
+s629
+
+N/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Intermediates/GooglePlaces.build/Debug-iphonesimulator/GooglePlaces.build/Objects-normal/i386/ViewController.o
+t2
+s0
+
+N/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Intermediates/GooglePlaces.build/Debug-iphonesimulator/GooglePlaces.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Intermediates/PrecompiledHeaders/GooglePlaces-Prefix-ehdoytenutcrkpgjkysijmecjvxb/GooglePlaces-Prefix.pch.pth
+t2
+s0
+
+N/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Products/Debug-iphonesimulator/GooglePlaces.app
+t2
+s0
+
+N/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Products/Debug-iphonesimulator/GooglePlaces.app.dSYM
+t2
+s0
+
+N/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Products/Debug-iphonesimulator/GooglePlaces.app/GooglePlaces
+t2
+s0
+
+N/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Products/Debug-iphonesimulator/GooglePlaces.app/Info.plist
+t2
+s0
+
+N/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Products/Debug-iphonesimulator/GooglePlaces.app/PkgInfo
+t2
+s0
+
+N/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Products/Debug-iphonesimulator/GooglePlaces.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Products/Debug-iphonesimulator/GooglePlaces.app/en.lproj/MainStoryboard.storyboardc
+t2
+s0
+
+N/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/GooglePlaces/AppDelegate.m
+c000000004F9F8ECF0000000000000804
+t1335856847
+s2052
+
+N/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/GooglePlaces/GooglePlaces-Prefix.pch
+c000000004F9F8ECF0000000000000147
+t1335856847
+s327
+
+N/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/GooglePlaces/ViewController.m
+c000000004F9F8ECF0000000000000297
+t1335856847
+s663
+
+N/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/GooglePlaces/en.lproj/InfoPlist.strings
+c000000004F9F8ECF000000000000002D
+t1335856847
+s45
+
+N/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/GooglePlaces/en.lproj/MainStoryboard.storyboard
+c000000004F9F938A0000000000000B6D
+t1335858058
+s2925
+
+N/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/GooglePlaces/main.m
+c000000004F9F8ECF000000000000015E
+t1335856847
+s350
+
+NGooglePlaces/GooglePlaces-Info.plist
+c000000004F9F8ECF00000000000004D8
+t1335856847
+s1240
+
+CBuild AST from "/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/GooglePlaces/AppDelegate.m"
+r0
+
+CBuild AST from "/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/GooglePlaces/ViewController.m"
+r0
+
+CBuild AST from "/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/GooglePlaces/main.m"
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies817a130acb4fb541^3751230acb4fb541^---0#1#0#--18"Check dependencies36"110E5D5D-A163-416C-AF1C-3968D66A74B7-
+
+CCompileC DerivedData/GooglePlaces/Build/Intermediates/GooglePlaces.build/Debug-iphonesimulator/GooglePlaces.build/Objects-normal/i386/AppDelegate.o "/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/GooglePlaces/AppDelegate.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s357550858.664543
+e357550858.705512
+r1
+xCompileC
+xDerivedData/GooglePlaces/Build/Intermediates/GooglePlaces.build/Debug-iphonesimulator/GooglePlaces.build/Objects-normal/i386/AppDelegate.o
+x/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/GooglePlaces/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/GooglePlaces/AppDelegate.m9b37aa0acb4fb541^a69bb40acb4fb541^---0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/jvanlint/Documents/Xcode%20Projects/Dead%20Frog%20Studios/GooglePlaces/GooglePlaces/AppDelegate.m0000000000000000^4332"CompileC DerivedData/GooglePlaces/Build/Intermediates/GooglePlaces.build/Debug-iphonesimulator/GooglePlaces.build/Objects-normal/i386/AppDelegate.o GooglePlaces/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote "/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Intermediates/GooglePlaces.build/Debug-iphonesimulator/GooglePlaces.build/GooglePlaces-generated-files.hmap" "-I/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Intermediates/GooglePlaces.build/Debug-iphonesimulator/GooglePlaces.build/GooglePlaces-own-target-headers.hmap" "-I/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Intermediates/GooglePlaces.build/Debug-iphonesimulator/GooglePlaces.build/GooglePlaces-all-target-headers.hmap" -iquote "/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Intermediates/GooglePlaces.build/Debug-iphonesimulator/GooglePlaces.build/GooglePlaces-project-headers.hmap" "-I/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Products/Debug-iphonesimulator/include" "-I/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Intermediates/GooglePlaces.build/Debug-iphonesimulator/GooglePlaces.build/DerivedSources/i386" "-I/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Intermediates/GooglePlaces.build/Debug-iphonesimulator/GooglePlaces.build/DerivedSources" "-F/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Products/Debug-iphonesimulator" -include "/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Intermediates/PrecompiledHeaders/GooglePlaces-Prefix-ehdoytenutcrkpgjkysijmecjvxb/GooglePlaces-Prefix.pch" -MMD -MT dependencies -MF "/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Intermediates/GooglePlaces.build/Debug-iphonesimulator/GooglePlaces.build/Objects-normal/i386/AppDelegate.d" --serialize-diagnostics "/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Intermediates/GooglePlaces.build/Debug-iphonesimulator/GooglePlaces.build/Objects-normal/i386/AppDelegate.dia" -c "/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/GooglePlaces/AppDelegate.m" -o "/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Intermediates/GooglePlaces.build/Debug-iphonesimulator/GooglePlaces.build/Objects-normal/i386/AppDelegate.o"36"E8B50D15-1A07-47E6-9932-FA5C9C5764B8-
+
+CCompileC DerivedData/GooglePlaces/Build/Intermediates/GooglePlaces.build/Debug-iphonesimulator/GooglePlaces.build/Objects-normal/i386/ViewController.o "/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/GooglePlaces/ViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s357550858.664541
+e357550858.697887
+r1
+xCompileC
+xDerivedData/GooglePlaces/Build/Intermediates/GooglePlaces.build/Debug-iphonesimulator/GooglePlaces.build/Objects-normal/i386/ViewController.o
+x/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/GooglePlaces/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Compile /Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/GooglePlaces/ViewController.mef37aa0acb4fb541^87a8b20acb4fb541^---0#0#0#-19%DVTDocumentLocation2@123"file://localhost/Users/jvanlint/Documents/Xcode%20Projects/Dead%20Frog%20Studios/GooglePlaces/GooglePlaces/ViewController.m0000000000000000^4350"CompileC DerivedData/GooglePlaces/Build/Intermediates/GooglePlaces.build/Debug-iphonesimulator/GooglePlaces.build/Objects-normal/i386/ViewController.o GooglePlaces/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote "/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Intermediates/GooglePlaces.build/Debug-iphonesimulator/GooglePlaces.build/GooglePlaces-generated-files.hmap" "-I/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Intermediates/GooglePlaces.build/Debug-iphonesimulator/GooglePlaces.build/GooglePlaces-own-target-headers.hmap" "-I/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Intermediates/GooglePlaces.build/Debug-iphonesimulator/GooglePlaces.build/GooglePlaces-all-target-headers.hmap" -iquote "/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Intermediates/GooglePlaces.build/Debug-iphonesimulator/GooglePlaces.build/GooglePlaces-project-headers.hmap" "-I/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Products/Debug-iphonesimulator/include" "-I/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Intermediates/GooglePlaces.build/Debug-iphonesimulator/GooglePlaces.build/DerivedSources/i386" "-I/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Intermediates/GooglePlaces.build/Debug-iphonesimulator/GooglePlaces.build/DerivedSources" "-F/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Products/Debug-iphonesimulator" -include "/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Intermediates/PrecompiledHeaders/GooglePlaces-Prefix-ehdoytenutcrkpgjkysijmecjvxb/GooglePlaces-Prefix.pch" -MMD -MT dependencies -MF "/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Intermediates/GooglePlaces.build/Debug-iphonesimulator/GooglePlaces.build/Objects-normal/i386/ViewController.d" --serialize-diagnostics "/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Intermediates/GooglePlaces.build/Debug-iphonesimulator/GooglePlaces.build/Objects-normal/i386/ViewController.dia" -c "/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/GooglePlaces/ViewController.m" -o "/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Intermediates/GooglePlaces.build/Debug-iphonesimulator/GooglePlaces.build/Objects-normal/i386/ViewController.o"36"D106E103-42A9-4ACA-BA1E-E2689916B7C3-
+
+CCompileC DerivedData/GooglePlaces/Build/Intermediates/GooglePlaces.build/Debug-iphonesimulator/GooglePlaces.build/Objects-normal/i386/main.o "/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/GooglePlaces/main.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s357550858.664538
+e357550858.683653
+r1
+xCompileC
+xDerivedData/GooglePlaces/Build/Intermediates/GooglePlaces.build/Debug-iphonesimulator/GooglePlaces.build/Objects-normal/i386/main.o
+x/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/GooglePlaces/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/GooglePlaces/main.m6937aa0acb4fb541^7d03af0acb4fb541^---0#0#0#-19%DVTDocumentLocation2@113"file://localhost/Users/jvanlint/Documents/Xcode%20Projects/Dead%20Frog%20Studios/GooglePlaces/GooglePlaces/main.m0000000000000000^4290"CompileC DerivedData/GooglePlaces/Build/Intermediates/GooglePlaces.build/Debug-iphonesimulator/GooglePlaces.build/Objects-normal/i386/main.o GooglePlaces/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote "/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Intermediates/GooglePlaces.build/Debug-iphonesimulator/GooglePlaces.build/GooglePlaces-generated-files.hmap" "-I/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Intermediates/GooglePlaces.build/Debug-iphonesimulator/GooglePlaces.build/GooglePlaces-own-target-headers.hmap" "-I/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Intermediates/GooglePlaces.build/Debug-iphonesimulator/GooglePlaces.build/GooglePlaces-all-target-headers.hmap" -iquote "/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Intermediates/GooglePlaces.build/Debug-iphonesimulator/GooglePlaces.build/GooglePlaces-project-headers.hmap" "-I/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Products/Debug-iphonesimulator/include" "-I/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Intermediates/GooglePlaces.build/Debug-iphonesimulator/GooglePlaces.build/DerivedSources/i386" "-I/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Intermediates/GooglePlaces.build/Debug-iphonesimulator/GooglePlaces.build/DerivedSources" "-F/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Products/Debug-iphonesimulator" -include "/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Intermediates/PrecompiledHeaders/GooglePlaces-Prefix-ehdoytenutcrkpgjkysijmecjvxb/GooglePlaces-Prefix.pch" -MMD -MT dependencies -MF "/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Intermediates/GooglePlaces.build/Debug-iphonesimulator/GooglePlaces.build/Objects-normal/i386/main.d" --serialize-diagnostics "/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Intermediates/GooglePlaces.build/Debug-iphonesimulator/GooglePlaces.build/Objects-normal/i386/main.dia" -c "/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/GooglePlaces/main.m" -o "/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Intermediates/GooglePlaces.build/Debug-iphonesimulator/GooglePlaces.build/Objects-normal/i386/main.o"36"0DC42FDA-B115-47D4-88A7-ABC318C08F21-
+
+CCompileStoryboard "/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/GooglePlaces/en.lproj/MainStoryboard.storyboard"
+s357550858.869584
+e357550860.563157
+r1
+xCompileStoryboard
+x/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/GooglePlaces/en.lproj/MainStoryboard.storyboard
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"CompileStoryboard GooglePlaces/en.lproj/MainStoryboard.storyboardb8acde0acb4fb541^842b900ccb4fb541^---0#0#0#-19%DVTDocumentLocation2@141"file://localhost/Users/jvanlint/Documents/Xcode%20Projects/Dead%20Frog%20Studios/GooglePlaces/GooglePlaces/en.lproj/MainStoryboard.storyboard0000000000000000^1053"CompileStoryboard GooglePlaces/en.lproj/MainStoryboard.storyboard    cd "/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces"    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 5.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Products/Debug-iphonesimulator/GooglePlaces.app/en.lproj/MainStoryboard.storyboardc" "/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/GooglePlaces/en.lproj/MainStoryboard.storyboard" --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk36"55117BCB-B781-4666-94DE-C906E704102A-
+
+CCopyStringsFile "/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Products/Debug-iphonesimulator/GooglePlaces.app/en.lproj/InfoPlist.strings" GooglePlaces/en.lproj/InfoPlist.strings
+s357550858.869438
+e357550858.872311
+r1
+xCopyStringsFile
+x/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Products/Debug-iphonesimulator/GooglePlaces.app/en.lproj/InfoPlist.strings
+xGooglePlaces/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Copy GooglePlaces/en.lproj/InfoPlist.strings7aa7de0acb4fb541^1a50df0acb4fb541^---0#0#0#-19%DVTDocumentLocation2@133"file://localhost/Users/jvanlint/Documents/Xcode%20Projects/Dead%20Frog%20Studios/GooglePlaces/GooglePlaces/en.lproj/InfoPlist.strings0000000000000000^733"CopyStringsFile DerivedData/GooglePlaces/Build/Products/Debug-iphonesimulator/GooglePlaces.app/en.lproj/InfoPlist.strings GooglePlaces/en.lproj/InfoPlist.strings    cd "/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir "/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Products/Debug-iphonesimulator/GooglePlaces.app/en.lproj" -- GooglePlaces/en.lproj/InfoPlist.strings36"EB96EEF2-0AA6-481E-913C-EFB3DFC20149-
+
+CGenerateDSYMFile "/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Products/Debug-iphonesimulator/GooglePlaces.app.dSYM" "/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Products/Debug-iphonesimulator/GooglePlaces.app/GooglePlaces"
+s357550858.818712
+e357550858.861401
+r1
+xGenerateDSYMFile
+x/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Products/Debug-iphonesimulator/GooglePlaces.app.dSYM
+x/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Products/Debug-iphonesimulator/GooglePlaces.app/GooglePlaces
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection166"Generating /Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Products/Debug-iphonesimulator/GooglePlaces.app.dSYMd3a3d10acb4fb541^a584dc0acb4fb541^---0#0#0#-19%DVTDocumentLocation2@177"file://localhost/Users/jvanlint/Documents/Xcode%20Projects/Dead%20Frog%20Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Products/Debug-iphonesimulator/GooglePlaces.app.dSYM000000000080d041^905"GenerateDSYMFile DerivedData/GooglePlaces/Build/Products/Debug-iphonesimulator/GooglePlaces.app.dSYM DerivedData/GooglePlaces/Build/Products/Debug-iphonesimulator/GooglePlaces.app/GooglePlaces    cd "/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/dsymutil "/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Products/Debug-iphonesimulator/GooglePlaces.app/GooglePlaces" -o "/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Products/Debug-iphonesimulator/GooglePlaces.app.dSYM"36"445AA978-F9AB-473C-B913-4F4355FF6262-
+
+CLd "/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Products/Debug-iphonesimulator/GooglePlaces.app/GooglePlaces" normal i386
+s357550858.712278
+e357550858.811875
+r1
+xLd
+x/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Products/Debug-iphonesimulator/GooglePlaces.app/GooglePlaces
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection168"Link /Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Products/Debug-iphonesimulator/GooglePlaces.app/GooglePlacesa96ab60acb4fb541^a6d6cf0acb4fb541^---0#0#0#--1588"Ld DerivedData/GooglePlaces/Build/Products/Debug-iphonesimulator/GooglePlaces.app/GooglePlaces normal i386    cd "/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk "-L/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Products/Debug-iphonesimulator" "-F/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Products/Debug-iphonesimulator" -filelist "/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Intermediates/GooglePlaces.build/Debug-iphonesimulator/GooglePlaces.build/Objects-normal/i386/GooglePlaces.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -Xlinker -no_implicit_dylibs -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -framework CoreLocation -framework MapKit -framework UIKit -framework Foundation -framework CoreGraphics -o "/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Products/Debug-iphonesimulator/GooglePlaces.app/GooglePlaces"36"D9026825-D93A-4E01-91BD-659FEDD1B439-
+
+CProcessInfoPlistFile "/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Products/Debug-iphonesimulator/GooglePlaces.app/Info.plist" GooglePlaces/GooglePlaces-Info.plist
+s357550858.148319
+e357550858.164950
+r1
+xProcessInfoPlistFile
+x/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Products/Debug-iphonesimulator/GooglePlaces.app/Info.plist
+xGooglePlaces/GooglePlaces-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Process GooglePlaces/GooglePlaces-Info.plist081f260acb4fb541^fa5f2a0acb4fb541^---0#0#0#-19%DVTDocumentLocation2@130"file://localhost/Users/jvanlint/Documents/Xcode%20Projects/Dead%20Frog%20Studios/GooglePlaces/GooglePlaces/GooglePlaces-Info.plist0000000000000000^892"ProcessInfoPlistFile DerivedData/GooglePlaces/Build/Products/Debug-iphonesimulator/GooglePlaces.app/Info.plist GooglePlaces/GooglePlaces-Info.plist    cd "/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility GooglePlaces/GooglePlaces-Info.plist -genpkginfo "/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Products/Debug-iphonesimulator/GooglePlaces.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Products/Debug-iphonesimulator/GooglePlaces.app/Info.plist"36"BF1DEEF4-DAEB-4493-84D8-7E9EF67DAE16-
+
+CProcessPCH "/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Intermediates/PrecompiledHeaders/GooglePlaces-Prefix-ehdoytenutcrkpgjkysijmecjvxb/GooglePlaces-Prefix.pch.pth" GooglePlaces/GooglePlaces-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s357550858.173011
+e357550858.656381
+r1
+xProcessPCH
+x/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Intermediates/PrecompiledHeaders/GooglePlaces-Prefix-ehdoytenutcrkpgjkysijmecjvxb/GooglePlaces-Prefix.pch.pth
+xGooglePlaces/GooglePlaces-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Precompile GooglePlaces/GooglePlaces-Prefix.pchca702c0acb4fb541^2008a80acb4fb541^---0#0#0#-19%DVTDocumentLocation2@130"file://localhost/Users/jvanlint/Documents/Xcode%20Projects/Dead%20Frog%20Studios/GooglePlaces/GooglePlaces/GooglePlaces-Prefix.pch0000000000000000^4145"ProcessPCH DerivedData/GooglePlaces/Build/Intermediates/PrecompiledHeaders/GooglePlaces-Prefix-ehdoytenutcrkpgjkysijmecjvxb/GooglePlaces-Prefix.pch.pth GooglePlaces/GooglePlaces-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote "/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Intermediates/GooglePlaces.build/Debug-iphonesimulator/GooglePlaces.build/GooglePlaces-generated-files.hmap" "-I/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Intermediates/GooglePlaces.build/Debug-iphonesimulator/GooglePlaces.build/GooglePlaces-own-target-headers.hmap" "-I/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Intermediates/GooglePlaces.build/Debug-iphonesimulator/GooglePlaces.build/GooglePlaces-all-target-headers.hmap" -iquote "/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Intermediates/GooglePlaces.build/Debug-iphonesimulator/GooglePlaces.build/GooglePlaces-project-headers.hmap" "-I/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Products/Debug-iphonesimulator/include" "-I/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Intermediates/GooglePlaces.build/Debug-iphonesimulator/GooglePlaces.build/DerivedSources/i386" "-I/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Intermediates/GooglePlaces.build/Debug-iphonesimulator/GooglePlaces.build/DerivedSources" "-F/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Products/Debug-iphonesimulator" --serialize-diagnostics "/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Intermediates/PrecompiledHeaders/GooglePlaces-Prefix-ehdoytenutcrkpgjkysijmecjvxb/GooglePlaces-Prefix.pch.dia" -c "/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/GooglePlaces/GooglePlaces-Prefix.pch" -o "/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Intermediates/PrecompiledHeaders/GooglePlaces-Prefix-ehdoytenutcrkpgjkysijmecjvxb/GooglePlaces-Prefix.pch.pth" -MMD -MT dependencies -MF "/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Intermediates/PrecompiledHeaders/GooglePlaces-Prefix-ehdoytenutcrkpgjkysijmecjvxb/GooglePlaces-Prefix.pch.d"36"30AF7FDD-DC34-4A8B-BB93-2C7BE131C93D-
+
+CProcessPCH "/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Index/PrecompiledHeaders/GooglePlaces-Prefix-fvwwpggafojnngauxsngtsrsbcmf_ast/GooglePlaces-Prefix.pch.pth" GooglePlaces/GooglePlaces-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch "/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Products/Debug-iphonesimulator/GooglePlaces.app"
+s357550860.571177
+e357550860.588378
+r1
+xTouch
+x/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Products/Debug-iphonesimulator/GooglePlaces.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection156"Touch /Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Products/Debug-iphonesimulator/GooglePlaces.app4e45920ccb4fb541^9d9f960ccb4fb541^---0#0#0#--536"Touch DerivedData/GooglePlaces/Build/Products/Debug-iphonesimulator/GooglePlaces.app    cd "/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/jvanlint/Documents/Xcode Projects/Dead Frog Studios/GooglePlaces/DerivedData/GooglePlaces/Build/Products/Debug-iphonesimulator/GooglePlaces.app"36"EC675C8F-809B-4BED-BCF9-50AA7DCF884B-
+
